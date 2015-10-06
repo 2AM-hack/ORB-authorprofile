@@ -9,3 +9,9 @@ OpenResearcherBadges provide a way for researchers to express whith what kind of
 The badges are linked to the ORCID profile of the contributor.
 
 We follow examples from 
+
+[Mozilla Science Blog](https://www.mozillascience.org/contributorship-badges-for-science-view-them-now)
+
+- http://openresearchsoftware.metajnl.com/articles/10.5334/jors.ad/metrics/#author-contributions
+
+
