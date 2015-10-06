@@ -2,7 +2,7 @@
 This repository is related to the Altmetrics Hackathon. 2015-10-06
 
 ##introduction
-What we try to do here is to create a CV page for researchers that include [Altmetrics](www.Altmetrics.com) and [Open Researcher Badges](www.OpenResearcherBadges.org).
+What we try to do here is to create a CV page for researchers that include [Altmetrics](http://www.Altmetrics.com) and [Open Researcher Badges](http://www.OpenResearcherBadges.org).
 ![Author Profile](https://raw.githubusercontent.com/2AM-hack/ORB-authorprofile/master/author-profile-sketch.jpg)
 
 OpenResearcherBadges provide a way for researchers to express whith what kind of activity they contributed to Research output.
