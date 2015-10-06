@@ -13,5 +13,5 @@ We follow examples from
 [Mozilla Science Blog](https://www.mozillascience.org/contributorship-badges-for-science-view-them-now)
 
 - http://openresearchsoftware.metajnl.com/articles/10.5334/jors.ad/metrics/#author-contributions
-
+- http://www.gigasciencejournal.com/content/3/1/18/about#open-badges
 
