@@ -8,6 +8,8 @@ What we try to do here is to create a CV page for researchers that include [Altm
 
 OpenResearcherBadges provide a way for researchers to express whith what kind of activity they contributed to Research output.
 
+[Here you'll find an article-centric example. from the Journal of Open Research Software](http://openresearchsoftware.metajnl.com/articles/10.5334/jors.ad/metrics/#author-contributions)
+
 Providing Badges for researchers, and aggregating them can provide for alternative views on the knowledge capacities of research groups, and whole institutions.
 So we can see:  if research groups have all the skillsets , where the experts on certain skillsets are.
 ![Group Profile](https://raw.githubusercontent.com/2AM-hack/ORB-authorprofile/master/research-group-sketch.jpg)
@@ -19,9 +21,13 @@ https://raw.githubusercontent.com/2AM-hack/ORB-authorprofile/master/template.htm
 - https://github.com/mozillascience/PaperBadger
 - https://badges.mozillascience.org/
 - http://openresearchbadges.org/
+- http://openresearchsoftware.metajnl.com/articles/10.5334/jors.ad/metrics/#author-contributions
  
 ## architecture
 ![arch](https://raw.githubusercontent.com/mozillascience/PaperBadger/master/public/img/Badges-ProposedWorkflow.jpg)
+which is part of a bigger ecosystem
+![openbadges ecosystem](https://wiki.mozilla.org/images/thumb/4/44/Tech-diagram-v3_updated.png/1200px-Tech-diagram-v3_updated.png)
+https://wiki.mozilla.org/Badges/Onboarding-Displayer#Open_Badges_Ecosystem
 
 ## Some thoughts on the effects of badges
 When we talk about Altmetrics we probably think about metrics on the output of a research process. Citations, views, likes, tweets, bookmarks, etc. measuring the ‘marketing reach’ of the output (entity type: publications, data, etc).
