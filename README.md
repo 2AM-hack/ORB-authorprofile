@@ -51,3 +51,16 @@ API Endpoints
         e.g. /papers/10.1186/2047-217X-3-18/users/0000-0001-5979-8713/badges/data_curation
     POST /papers/:doi1/:doi2/badges/:orcid/badges/:badge
         Issue a badge
+
+
+
+We will use this author http://orcid.org/0000-0002-9107-7681
+to be used as an example in the proof of concept
+
+If you look in the source of this html you'll see javastript file is used called 
+https://badges.mozillascience.org/widgets/paper-badger-widget.js
+
+this is contained in a div, addeing variables.
+var conf={"article-doi": "10.5334/jors.ad", "container-class": "badge-container-18608322"};showBadges(conf);
+
+We need to give it variables  per paper; the DOI and the ORcid. in order to get the badges for that paper, for that author.
