@@ -68,3 +68,10 @@ We need to give it variables  per paper; the DOI and the ORcid. in order to get 
 ## The documentation how to use the widget is here
 https://github.com/mozillascience/PaperBadger
 
+
+Our test author's papers with badges are here:
+
+https://badges.mozillascience.org/users/0000-0002-9107-7681/badges
+
+
+
