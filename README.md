@@ -19,6 +19,9 @@ https://raw.githubusercontent.com/2AM-hack/ORB-authorprofile/master/template.htm
 - https://github.com/mozillascience/PaperBadger
 - https://badges.mozillascience.org/
 - http://openresearchbadges.org/
+ 
+## architecture
+![arch](https://raw.githubusercontent.com/mozillascience/PaperBadger/master/public/img/Badges-ProposedWorkflow.jpg)
 
 ## Some thoughts on the effects of badges
 When we talk about Altmetrics we probably think about metrics on the output of a research process. Citations, views, likes, tweets, bookmarks, etc. measuring the ‘marketing reach’ of the output (entity type: publications, data, etc).
