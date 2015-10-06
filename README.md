@@ -4,6 +4,8 @@
 
 ##introduction
 What we try to do here is to create a CV page for researchers that include [Altmetrics](http://www.altmetric.com/) and [Open Research Badges](http://openresearchbadges.org/).
+|Author profile|Group profile|
+|---|---|
 |![Author Profile](https://raw.githubusercontent.com/2AM-hack/ORB-authorprofile/master/author-profile-sketch.jpg)|![Group Profile](https://raw.githubusercontent.com/2AM-hack/ORB-authorprofile/master/research-group-sketch.jpg)|
 
 OpenResearcherBadges provide a way for researchers to express whith what kind of activity they contributed to Research output.
