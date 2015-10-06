@@ -20,10 +20,11 @@ https://raw.githubusercontent.com/2AM-hack/ORB-authorprofile/master/template.htm
 - https://badges.mozillascience.org/
 - http://openresearchbadges.org/
 
-## Some thoughts on badges bringing the fun back to research
+## Some thoughts on the effects of badges
 When we talk about Altmetrics we probably think about metrics on the output of a research process. Citations, views, likes, tweets, bookmarks, etc. measuring the ‘marketing reach’ of the output (entity type: publications, data, etc).
 But you can also try to measure the input of the research process (entity type: people, hence: ORCiD). 
 The whole idea is to reward researchers for their specialist-contribution (what they are good at, and having fun doing) in the research process. Releasing the publication pressure, and increasing the quality of research, and letting reseachers do that part what they most fancy to do.
+- researchers get to know what career paths fits to them
 
 ## Our thoughts on how we got this to work
 The badges are linked to the ORCID profile of the contributor.
