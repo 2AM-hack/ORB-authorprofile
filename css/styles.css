@@ -3,6 +3,7 @@ html {
 	background:#e9e9e9;
 	color:#333;
 	box-sizing:border-box;
+	font-size:16px;
 }
 
 *, *:before, *:after {
@@ -12,7 +13,7 @@ html {
 .container {
 	margin:0 20% 0 10%;
 	padding:2%;
-	height:100vh;
+	/*height:100vh;*/
 	background:#fff;
 }
 
@@ -21,13 +22,42 @@ html {
 }
 
 .main {
-	width:70%;
+	/*width:70%;*/
 	padding:0 1% 0 2%;
-	float:left;
+	/*float:left;*/
+}
+
+.papers-list {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+
+.papers-list > li:first-child {border-bottom:0 none;}
+
+.papers-list > li {
+	border-bottom:1px solid #e9e9e9;
+	padding-bottom:1.5rem;
+}
+
+.paper-type {
+	text-transform:uppercase;
+    font-size:.8rem;
+    margin:0 0 .5rem;
+}
+
+.badge-container-18608322 {
+	overflow:auto;
+}
+
+/** Classes from paper-badger.js **/
+.paper-badge {
+	border-top:0 none !important;
+	/*height:auto;*/
 }
 
 .sidebar {
-	width:30%;
+	/*width:30%;
 	padding:0 2% 0 1%;
-	float:left;
+	float:left;*/
 }
