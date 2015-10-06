@@ -1,8 +1,9 @@
 # ORB-authorprofile
-This repository is related to the Altmetrics Hackathon. 2015-10-06
+*This repository is related to the Altmetrics Hackathon. 2015-10-06*
+![Open Research Badges](http://wp.mozillascience.org/wp-content/uploads/2014/11/badges.png)
 
 ##introduction
-What we try to do here is to create a CV page for researchers that include [Altmetrics](http://www.Altmetrics.com) and [Open Researcher Badges](http://www.OpenResearcherBadges.org).
+What we try to do here is to create a CV page for researchers that include [Altmetrics](http://www.altmetric.com/) and [Open Research Badges](http://openresearchbadges.org/).
 ![Author Profile](https://raw.githubusercontent.com/2AM-hack/ORB-authorprofile/master/author-profile-sketch.jpg)
 
 OpenResearcherBadges provide a way for researchers to express whith what kind of activity they contributed to Research output.
@@ -13,6 +14,11 @@ So we can see:  if research groups have all the skillsets , where the experts on
 
 ## The Hackaton result
 https://raw.githubusercontent.com/2AM-hack/ORB-authorprofile/master/template.html
+
+## Useful links
+- https://github.com/mozillascience/PaperBadger
+- https://badges.mozillascience.org/
+- http://openresearchbadges.org/
 
 ## our thoughts on how we got this to work
 The badges are linked to the ORCID profile of the contributor.
