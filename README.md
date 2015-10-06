@@ -1,11 +1,20 @@
 # ORB-authorprofile
+This repository is related to the Altmetrics Hackathon. 2015-10-06
 
-This repository is related to the Altmetrics Hackathon. 
-
-It tries to make an actionable mockup for an Author Profile using OpenResearcherBadges.org
+##introduction
+What we try to do here is to create a CV page for researchers that include [Altmetrics](www.Altmetrics.com) and [Open Researcher Badges](www.OpenResearcherBadges.org).
+![Author Profile](https://raw.githubusercontent.com/2AM-hack/ORB-authorprofile/master/author-profile-sketch.jpg)
 
 OpenResearcherBadges provide a way for researchers to express whith what kind of activity they contributed to Research output.
 
+Providing Badges for researchers, and aggregating them can provide for alternative views on the knowledge capacities of research groups, and whole institutions.
+So we can see:  if research groups have all the skillsets , where the experts on certain skillsets are.
+![Group Profile](https://raw.githubusercontent.com/2AM-hack/ORB-authorprofile/master/research-group-sketch.jpg)
+
+## The Hackaton result
+https://raw.githubusercontent.com/2AM-hack/ORB-authorprofile/master/template.html
+
+## our thoughts on how we got this to work
 The badges are linked to the ORCID profile of the contributor.
 
 We followed some examples from the [Mozilla Science Blog](https://www.mozillascience.org/contributorship-badges-for-science-view-them-now)
