@@ -1,6 +1,6 @@
 # ORB-authorprofile
 
-This repository is related to the Altmetrics Hackaton. 
+This repository is related to the Altmetrics Hackathon. 
 
 It tries to make an actionable mockup for an Author Profile using OpenResearcherBadges.org
 

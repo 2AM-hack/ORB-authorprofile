@@ -1,0 +1,33 @@
+html {
+	font-family:sans-serif;
+	background:#e9e9e9;
+	color:#333;
+	box-sizing:border-box;
+}
+
+*, *:before, *:after {
+  box-sizing:inherit;
+}
+
+.container {
+	margin:0 20% 0 10%;
+	padding:2%;
+	height:100vh;
+	background:#fff;
+}
+
+.header > h1:first-child {
+	margin-top:0;
+}
+
+.main {
+	width:70%;
+	padding:0 1% 0 2%;
+	float:left;
+}
+
+.sidebar {
+	width:30%;
+	padding:0 2% 0 1%;
+	float:left;
+}
