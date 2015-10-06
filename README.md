@@ -64,3 +64,7 @@ this is contained in a div, addeing variables.
 var conf={"article-doi": "10.5334/jors.ad", "container-class": "badge-container-18608322"};showBadges(conf);
 
 We need to give it variables  per paper; the DOI and the ORcid. in order to get the badges for that paper, for that author.
+
+## The documentation how to use the widget is here
+https://github.com/mozillascience/PaperBadger
+
